@@ -1,0 +1,7 @@
+export const FORM_HEADER = 'Sign In'
+export const FORM_EMAIL_ADDRESS_LABEL = 'Email Address'
+export const FORM_PASSWORD_LABEL = 'Password'
+export const FORM_REMEMBER_ME_LABEL = 'Remember Me'
+export const FORM_PRIMARY_BUTTON_TEXT = 'Sign In'
+export const FORM_FORGOT_PASSWORD_LINK_TEXT = 'Forgot Password'
+export const FORM_SIGN_UP_LINK_TEXT = 'Sign Up'
